@@ -1,12 +1,42 @@
 [
   {
-    "id": "gs-1793197072763-0lbwp",
-    "title": "The New EP-35 K.O. Amp",
-    "description": "Teenage engineering Brand-New Era",
+    "id": "gs-1793270925749-uyyax",
+    "title": "Syitren N200",
+    "description": "Minimalist Retro Bluetooth Speaker",
     "category": "tech",
-    "image": "https://assets.teenage.engineering/_img/store/89a29708ae2d028e9e887712d5b1ce3dd010d088a9a9a35bda54d1d4f7906ad8.avif?w=768",
-    "link": "https://teenage.engineering/store/ep-35",
+    "image": "https://i.pinimg.com/736x/3c/6c/c6/3c6cc6bd5580fe3ab25ecf63143e3a09.jpg",
+    "link": "https://www.syitren.com/product/n200-portable-bluetooth-speaker/",
     "isProduct": true,
-    "publishedAt": "2026-10-28T14:17:52.763Z"
+    "publishedAt": "2026-10-29T10:48:45.749Z"
+  },
+  {
+    "id": "gs-1793270700441-mb7fu",
+    "title": "Divoom Astrotoo – 20W",
+    "description": "Desktop Speaker with a Living Display",
+    "category": "tech",
+    "image": "https://divoom.com/cdn/shop/files/6e5a1c6f02e4601099cc81aca35a61fd_a685a927-54c7-4bad-8a75-463178566535.jpg?v=1790069327&width=750",
+    "link": "https://divoom.com/products/divoom-astrotoo-smart-pixel-art-desktop-speaker?srsltid=AYCX9vIAvyW0hBrCgdIqg2Sh8W42_NiQWlpDk8UwpguDTSIqGSaYVZfR",
+    "isProduct": true,
+    "publishedAt": "2026-10-29T10:45:00.441Z"
+  },
+  {
+    "id": "gs-1793270518176-cs0zr",
+    "title": "SHARGE Retractable 3-in-1 Power Bank",
+    "description": "No More Cable Chaos",
+    "category": "tech",
+    "image": "https://stupiddope.com/wp-content/uploads/2025/08/Sharge-Retractable-3-in-1-Power-Bank-Redefines-Everyday-Charging-1.jpg",
+    "link": "https://sharge.com/products/discho-hybrid-power-bank",
+    "isProduct": true,
+    "publishedAt": "2026-10-29T10:41:58.176Z"
+  },
+  {
+    "id": "gs-1793269928332-q3e0q",
+    "title": "A cool desk watch",
+    "description": "The Linear Clock is a minimal design piece that introduces a unique way to display the time.",
+    "category": "design",
+    "image": "https://thelinearclock.co.uk/images/linear-1.png",
+    "link": "https://thelinearclock.co.uk/",
+    "isProduct": false,
+    "publishedAt": "2026-10-29T10:32:08.332Z"
   }
 ]
