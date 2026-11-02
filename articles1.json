@@ -1,7 +1,27 @@
 [
   {
+    "id": "gs-1793627241828-cu6x9",
+    "title": "Rabbit R1",
+    "description": "Teenage engineering design with AI assistant",
+    "category": "tech",
+    "image": "https://sm.pcmag.com/pcmag_uk/photo/default/0635wymqmtai2zlsrdihnbp-9_961w.jpg",
+    "link": "https://www.rabbit.tech/rabbit-r1",
+    "isProduct": true,
+    "publishedAt": "2026-11-02T13:47:21.828Z"
+  },
+  {
+    "id": "gs-1793627105279-89umf",
+    "title": "Panic - Playdate",
+    "description": "It’s yellow. It fits in your pocket. There’s a crank",
+    "category": "tech",
+    "image": "https://mensgear.net/wp-content/uploads/2019/05/Panic-Playdate-980x657.png",
+    "link": "https://play.date/shop/",
+    "isProduct": true,
+    "publishedAt": "2026-11-02T13:45:05.279Z"
+  },
+  {
     "id": "gs-1793626109612-6lfuw",
-    "title": "Renault 5",
+    "title": "Renault 5 E-Tech",
     "description": "French icon is back",
     "category": "auto",
     "image": "https://www.supercars.net/blog/wp-content/uploads/2024/03/2025-Renault-5-E-Tech-001-2160-1536x864.jpg",
