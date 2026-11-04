@@ -1,5 +1,25 @@
 [
   {
+    "id": "gs-1793798371722-api10",
+    "title": "Computer 1",
+    "description": "Teenage engineering Computer 1 case - 50% off",
+    "category": "design",
+    "image": "https://tpucdn.com/review/teenage-engineering-computer-1/images/title.jpg",
+    "link": "https://teenage.engineering/store/computer-1-orange",
+    "isProduct": true,
+    "publishedAt": "2026-11-04T13:19:31.722Z"
+  },
+  {
+    "id": "gs-1793798014053-qhgdc",
+    "title": "Lofree Touch",
+    "description": "Another cool retro mice by Lofree",
+    "category": "design",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/lofree-touch-PBT-mouse-review-header_sm.JPG",
+    "link": "https://www.lofree.co/products/lofree-touch-pbt-wireless-mouse?variant=44242527551707",
+    "isProduct": true,
+    "publishedAt": "2026-11-04T13:13:34.053Z"
+  },
+  {
     "id": "gs-1793627241828-cu6x9",
     "title": "Rabbit R1",
     "description": "Teenage engineering design with AI assistant",
