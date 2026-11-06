@@ -1,5 +1,27 @@
 [
   {
+    "id": "gs-1793968102987-bi7uk",
+    "title": "HiBy W4",
+    "description": "Portable HiFi Bluetooth Headphone Amplifier",
+    "category": "design",
+    "image": "https://store.hiby.com/cdn/shop/files/4_50107110-9e6e-4dd8-82a6-1f581e519daf.png?v=1766492663&width=700",
+    "link": "https://store.hiby.com/products/hibyw4",
+    "isProduct": true,
+    "discountCode": "",
+    "publishedAt": "2026-11-06T12:28:22.987Z"
+  },
+  {
+    "id": "gs-1793967313792-mhn2u",
+    "title": "StillFrame Headphones",
+    "description": "Its form echoes the quiet geometry of ’80s–’90s CDs",
+    "category": "design",
+    "image": "https://shop.yankodesign.com/cdn/shop/files/StillFrame-Headphones-Hero_1200x.jpg?v=1763403459",
+    "link": "https://shop.yankodesign.com/products/stillframe-headphones",
+    "isProduct": true,
+    "discountCode": "Unavailable",
+    "publishedAt": "2026-11-06T12:15:13.792Z"
+  },
+  {
     "id": "gs-1793966787816-rd70s",
     "title": "NoxTi: The Tritium Keychain",
     "description": "Carry the Glow. Own the Night",
