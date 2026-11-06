@@ -1,5 +1,16 @@
 [
   {
+    "id": "gs-1793966119067-27fz0",
+    "title": "Syitren N200",
+    "description": "A mini portable Bluetooth speaker designed for desk setups",
+    "category": "tech",
+    "image": "https://schks3.searchingc.com/wp-content/uploads/2025/12/24103119/%E4%B8%BB%E5%9B%BE02-10-1-768x768.jpg",
+    "link": "https://www.syitren.com/product/n200-portable-bluetooth-speaker/",
+    "isProduct": true,
+    "discountCode": "",
+    "publishedAt": "2026-11-06T11:55:19.067Z"
+  },
+  {
     "id": "gs-1793801875508-397q1",
     "title": "Ambient One",
     "description": "Portable air quality tracker",
@@ -13,11 +24,12 @@
   {
     "id": "gs-1793799731052-alrxe",
     "title": "Kehai wall clock",
-    "description": "Kehai clock embodies the mystery of time",
+    "description": "We sometimes find the presence of a clock unpleasant.\nAnd sometimes the existence of time is also unpleasant.\nSo a slightly ambiguous sign of time is just fine.\nMakoto Koizumi",
     "category": "design",
     "image": "https://shop.japanhouselondon.uk/app/uploads/2023/11/Takata-Lemnos-Clock-Riki-Watanabe-Makoto-Koizumi-Takenobu-Igarashi11.jpg",
     "link": "https://lemnosclocks.eu/en/product/lemnos-wall-clock-kehai/",
     "isProduct": true,
+    "discountCode": "",
     "publishedAt": "2026-11-04T13:42:11.052Z"
   },
   {
@@ -25,9 +37,10 @@
     "title": "Computer 1",
     "description": "Teenage engineering Computer 1 case - 50% off",
     "category": "design",
-    "image": "https://tpucdn.com/review/teenage-engineering-computer-1/images/title.jpg",
+    "image": "https://img-new.cgtrader.com/items/4320433/4166a100e8/simple-mini-itx-pc-case-computer-1-3d-model-4166a100e8.jpg",
     "link": "https://teenage.engineering/store/computer-1-orange",
     "isProduct": true,
+    "discountCode": "",
     "publishedAt": "2026-11-04T13:19:31.722Z"
   },
   {
@@ -61,23 +74,14 @@
     "publishedAt": "2026-11-02T13:45:05.279Z"
   },
   {
-    "id": "gs-1793626109612-6lfuw",
-    "title": "Renault 5 E-Tech",
-    "description": "French icon is back - Check the specs",
-    "category": "auto",
-    "image": "https://www.supercars.net/blog/wp-content/uploads/2024/03/2025-Renault-5-E-Tech-001-2160-1536x864.jpg",
-    "link": "https://ev-database.org/car/3710/Renault-5-E-Tech-52kWh-150hp",
-    "isProduct": false,
-    "publishedAt": "2026-11-02T13:28:29.612Z"
-  },
-  {
     "id": "gs-1793197072763-0lbwp",
     "title": "The New EP-35 K.O. Amp",
     "description": "Teenage engineering Brand-New Era",
     "category": "tech",
-    "image": "https://assets.teenage.engineering/_img/store/89a29708ae2d028e9e887712d5b1ce3dd010d088a9a9a35bda54d1d4f7906ad8.avif?w=768",
+    "image": "https://uncrate.com/p/2026/10/teenage-amp-2.jpg",
     "link": "https://teenage.engineering/store/ep-35",
     "isProduct": true,
+    "discountCode": "",
     "publishedAt": "2026-10-28T14:17:52.763Z"
   }
 ]
