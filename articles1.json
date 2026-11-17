@@ -1,5 +1,26 @@
 [
   {
+    "id": "gs-1794921516683-36in6",
+    "title": "Goofball - Perch Clock",
+    "description": "Designed for the spaces between rooms",
+    "category": "design",
+    "image": "https://goofball.store/cdn/shop/files/Meantime_Clock.13.png?v=1774997776&width=832",
+    "link": "https://goofball.store/products/perch-clock",
+    "isProduct": true,
+    "publishedAt": "2026-11-17T13:18:36.683Z"
+  },
+  {
+    "id": "gs-1794565123149-9c51f",
+    "title": "8BITDO latest Xbox controler",
+    "description": "Just in time for GTA 6....",
+    "category": "tech",
+    "image": "https://www.8bitdo.com/images/2026/3c-wireless/06-l.jpg",
+    "link": "https://www.8bitdo.com/ultimate-3c-plus-wired-controller-xbox/",
+    "isProduct": true,
+    "discountCode": "",
+    "publishedAt": "2026-11-13T10:18:43.149Z"
+  },
+  {
     "id": "gs-1793977566819-kysse",
     "title": "SHARGE Disk Pro 2",
     "description": "6-in-1 Hub，Swappable SSD，Active Cooling Fan",
